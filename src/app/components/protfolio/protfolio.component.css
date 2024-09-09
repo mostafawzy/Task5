@@ -1,0 +1,13 @@
+.custom-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+    min-height: 150px; /* Decrease height to make cards smaller */
+    padding: 20px; /* Add padding inside the cards */
+    transition: transform 0.3s ease; /* Optional: add a hover effect */
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05); /* Optional: slight grow on hover */
+  }
+  
+
+  
